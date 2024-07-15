@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA PROGRAMS.iml" filepath="$PROJECT_DIR$/JAVA PROGRAMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/binary search.iml" filepath="$PROJECT_DIR$/binary search/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear search/linear search.iml" filepath="$PROJECT_DIR$/linear search/linear search.iml" />
+    </modules>
+  </component>
+</project>
